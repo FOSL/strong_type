@@ -1,0 +1,6 @@
+[submodule "example/library/FOSL/metaprogramming"]
+	path = example/library/FOSL/metaprogramming
+	url = https://github.com/FOSL/metaprogramming.git
+[submodule "example/library/FOSL/utility"]
+	path = example/library/FOSL/utility
+	url = https://github.com/FOSL/utility.git
