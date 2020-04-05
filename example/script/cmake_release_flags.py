@@ -8,11 +8,11 @@ import sys
 
 flags = [
     '-DCMAKE_BUILD_TYPE=Release',
-
     '-Wno-dev',
 
     '-DCMAKE_TESTING_ENABLED=ON',
 
+    '-DCMAKE_COLOR_MAKEFILE=ON',
     '-DCMAKE_MAKE_PROGRAM=make',
 ]
 
